@@ -57,13 +57,13 @@
 
 ## 🌐 Links
 <p align="left">
-  <a href="https://your-blog-url" target="_blank">
+  <a href="https://qetu5702.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white" />
   </a>
-  <a href="https://your-notion-url" target="_blank">
+  <a href="https://www.notion.so/2b27d0cdbf1881be8726f4ea9c91a41e?source=copy_link" target="_blank">
     <img src="https://img.shields.io/badge/Notion-353535?style=flat&logo=notion&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="qetu5702@gmail.com">
     <img src="https://img.shields.io/badge/Email-8B0000?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
