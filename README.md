@@ -18,24 +18,45 @@
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
-  <!-- Languages -->
+
+### 🎯 Languages
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-
-  <!-- DB / Cache -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
+
+### 🎯 Framework
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLLM-FFCD00?logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+</p>
+
+### 🎯 DB / Cache
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4F00?logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-3399FF?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+</p>
+
+### 🎯 DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Harbor-60B932?logo=harbor&logoColor=white" />
+</p>
+
+### 🎯 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
 
 ---
 
