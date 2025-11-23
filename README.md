@@ -1,7 +1,7 @@
 <!-- 배경 이미지 -->
 <div align="center">
   <img 
-  src="https://images.pexels.com/photos/6985003/pexels-photo-6985003.jpeg" 
+  src="https://t1.daumcdn.net/brunch/service/user/fffQ/image/04DqaMJbsSeZIVxdVa1_l1FQIKw.png" 
   style="width: 100%; height: 200px; object-fit: cover;" 
 />
 </div>
