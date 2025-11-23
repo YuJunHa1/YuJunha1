@@ -1,12 +1,12 @@
 <!-- 배경 이미지 -->
 <div align="center">
-  <img src="https://images.pexels.com/photos/6985003/pexels-photo-6985003.jpeg" width="20%" />
+  <img src="https://images.pexels.com/photos/6985003/pexels-photo-6985003.jpeg" width="100%" height="20%" />
 </div>
 
 <h1 align="center">Welcome🖐️</h1>
 
 <p align="center">
-  AI 백엔드 개발자입니다.
+  RAG 분야에서 근무 중인 AI 백엔드 개발자입니다.
   GenAI 응용 분야에 깊은 관심을 가지고 있습니다.
 </p>
 
