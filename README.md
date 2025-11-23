@@ -1,32 +1,27 @@
 <!-- 배경 이미지 -->
 <div align="center">
-  <img src="https://images.pexels.com/photos/6985003/pexels-photo-6985003.jpeg" width="100%" />
+  <img src="https://images.pexels.com/photos/6985003/pexels-photo-6985003.jpeg" width="20%" />
 </div>
 
-<!-- 캐릭터 이미지 -->
-<div align="center">
-  <img src="https://your-character-image-url" width="200" />
-</div>
-
-<h1 align="center">🖤 Welcome to My Space 🖤</h1>
+<h1 align="center">Welcome🖐️</h1>
 
 <p align="center">
-  다크한 분위기를 좋아하는 개발자입니다.  
-  새로운 기술을 탐험하고, 만들고, 부수고, 고치는 걸 즐깁니다.
+  AI 백엔드 개발자입니다.
+  GenAI 응용 분야에 깊은 관심을 가지고 있습니다.
 </p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🎯 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
 
-### 🎯 Framework
+### Framework
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white" />
@@ -34,7 +29,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
 </p>
 
-### 🎯 DB / Cache
+### DB / Cache
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
@@ -44,7 +39,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 </p>
 
-### 🎯 DevOps
+### DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
@@ -52,7 +47,7 @@
   <img src="https://img.shields.io/badge/Harbor-60B932?logo=harbor&logoColor=white" />
 </p>
 
-### 🎯 Tools
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
@@ -74,13 +69,3 @@
 </p>
 
 ---
-
-## 🧊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-id&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-id&layout=compact&theme=tokyonight" height="150" />
-</div>
-
----
-
-## 👾 이 공간을 누가 오든, 환영이야
