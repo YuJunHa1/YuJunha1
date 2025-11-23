@@ -1,6 +1,9 @@
 <!-- 배경 이미지 -->
 <div align="center">
-  <img src="https://images.pexels.com/photos/6985003/pexels-photo-6985003.jpeg" width="100%" height="20%" />
+  <img 
+  src="https://images.pexels.com/photos/6985003/pexels-photo-6985003.jpeg" 
+  style="width: 100%; height: 200px; object-fit: cover;" 
+/>
 </div>
 
 <h1 align="center">Welcome🖐️</h1>
