@@ -7,7 +7,7 @@
 <div align="center">
 
 ### 👨‍💻 AI Backend Developer  
-RAG 분야에서 근무중인 AI 백엔드 개발자입니다.
+RAG 분야에서 근무중인 AI 백엔드 개발자입니다.\n
 **RAG · LLM** 기반 서비스 개발
 **LangChain, VectorStore, GraphDB** 기반 문서 검색·지식그래프 개발
 **Python / FastAPI** 기반 백엔드 API 구축
