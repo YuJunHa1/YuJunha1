@@ -13,12 +13,14 @@ RAG 분야를 중심으로 AI 백엔드 개발을 수행하고 있습니다.
 - 🐍 **Python / FastAPI** 기반 백엔드 API 구축
 - 🐳 **Docker** 컨테이너 관리 및 배포
 - 🔎 **LangChain, VectorStore, GraphDB** 기반 문서 검색·지식그래프 개발
-
----
-
 </div>
 
----
+
+
+
+
+
+
 <h2 align="center"> 🛠 Tech Stack </h2>
 <div align="center">
 
@@ -62,7 +64,7 @@ RAG 분야를 중심으로 AI 백엔드 개발을 수행하고 있습니다.
 
 </div>
 
----
+
 <h2 align="center"> 🌐 Links </h2>
 ## 🌐 Links
 <div align="center">
@@ -74,7 +76,7 @@ RAG 분야를 중심으로 AI 백엔드 개발을 수행하고 있습니다.
   </a>
 </div>
 
----
+
 <h2 align="center"> 📚 Baekjoon & Solved.ac </h2>
 ## 📚 Baekjoon & Solved.ac
 <div align="center">
@@ -83,4 +85,4 @@ RAG 분야를 중심으로 AI 백엔드 개발을 수행하고 있습니다.
 
 </div>
 
----
+
