@@ -1,10 +1,5 @@
 <!-- 배경 이미지 -->
-<div align="center">
-  <img 
-  src="https://t1.daumcdn.net/brunch/service/user/fffQ/image/04DqaMJbsSeZIVxdVa1_l1FQIKw.png" 
-  style="width: 100%; height: 200px; object-fit: cover;" 
-/>
-</div>
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" />
 
 <h1 align="center">Welcome🖐️</h1>
 
