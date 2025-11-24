@@ -59,7 +59,6 @@ LangChain, GraphDB, Vector Store 등 다양한 AI 기술 스택을 활용해 서
 
 
 <h2 align="center"> 🌐 Links </h2>
-## 🌐 Links
 <div align="center">
   <a href="https://qetu5702.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white" />
@@ -71,7 +70,6 @@ LangChain, GraphDB, Vector Store 등 다양한 AI 기술 스택을 활용해 서
 <br><br>
 
 <h2 align="center"> 📚 Baekjoon & Solved.ac </h2>
-## 📚 Baekjoon & Solved.ac
 <div align="center">
   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qetu5702)
