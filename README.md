@@ -15,11 +15,7 @@ RAG 분야를 중심으로 AI 백엔드 개발을 수행하고 있습니다.
 - 🔎 **LangChain, VectorStore, GraphDB** 기반 문서 검색·지식그래프 개발
 </div>
 
-
-
-
-
-
+<br><br>
 
 <h2 align="center"> 🛠 Tech Stack </h2>
 <div align="center">
@@ -75,7 +71,7 @@ RAG 분야를 중심으로 AI 백엔드 개발을 수행하고 있습니다.
     <img src="https://img.shields.io/badge/Notion-353535?style=flat&logo=notion&logoColor=white" />
   </a>
 </div>
-
+<br><br>
 
 <h2 align="center"> 📚 Baekjoon & Solved.ac </h2>
 ## 📚 Baekjoon & Solved.ac
