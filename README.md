@@ -19,8 +19,7 @@ RAG 분야를 중심으로 AI 백엔드 개발을 수행하고 있습니다.
 </div>
 
 ---
-
-## 🛠 Tech Stack
+<h2 align="center"> 🛠 Tech Stack </h2>
 <div align="center">
 
 ### Languages
@@ -64,7 +63,7 @@ RAG 분야를 중심으로 AI 백엔드 개발을 수행하고 있습니다.
 </div>
 
 ---
-
+<h2 align="center"> 🌐 Links </h2>
 ## 🌐 Links
 <div align="center">
   <a href="https://qetu5702.tistory.com/" target="_blank">
@@ -76,7 +75,7 @@ RAG 분야를 중심으로 AI 백엔드 개발을 수행하고 있습니다.
 </div>
 
 ---
-
+<h2 align="center"> 📚 Baekjoon & Solved.ac </h2>
 ## 📚 Baekjoon & Solved.ac
 <div align="center">
   
