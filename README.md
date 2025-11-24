@@ -67,4 +67,12 @@
 
 ---
 
+## 📚 Baekjoon & Solved.ac
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qetu5702)
+
+---
+
+## 🧩 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-JUNHA&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YU-JUNHA&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=YU-JUNHA)
