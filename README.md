@@ -67,4 +67,4 @@
 
 ---
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?qetu5702)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qetu5702)
