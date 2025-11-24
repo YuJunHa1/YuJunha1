@@ -1,5 +1,7 @@
 <!-- 배경 이미지 -->
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" />
+<div align="center">
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" />
+</div>
 
 <h1 align="center">Welcome🖐️</h1>
 
