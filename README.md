@@ -2,17 +2,16 @@
     <img src="https://cdn.pixabay.com/animation/2023/04/14/20/54/20-54-26-27_512.gif" width="250" />
 </div>
 
-<h1 align="center"> ✨ Welcome to my space </h1>
+<h1 align="center"> Welcome to my space </h1>
 
 <div align="center">
 
 ### 👨‍💻 AI Backend Developer  
-GenAI 응용 분야에 깊은 관심을 가진 개발자입니다.  
-RAG 분야를 중심으로 AI 백엔드 개발을 수행하고 있습니다.
-- 🧠 **RAG · LLM 기반 서비스 개발**
-- 🐍 **Python / FastAPI** 기반 백엔드 API 구축
-- 🐳 **Docker** 컨테이너 관리 및 배포
-- 🔎 **LangChain, VectorStore, GraphDB** 기반 문서 검색·지식그래프 개발
+RAG 분야에서 근무중인 AI 백엔드 개발자입니다.
+**RAG · LLM** 기반 서비스 개발
+**LangChain, VectorStore, GraphDB** 기반 문서 검색·지식그래프 개발
+**Python / FastAPI** 기반 백엔드 API 구축
+**Docker** 컨테이너 관리 및 배포
 </div>
 
 <br><br>
