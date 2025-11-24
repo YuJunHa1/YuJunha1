@@ -2,7 +2,7 @@
     <img src="https://cdn.pixabay.com/animation/2023/04/14/08/38/08-38-03-528_512.gif" width="250" />
 </div>
 
-<h1 align="center">Welcome🖐️</h1>
+<h1 align="center"> ✨ Welcome to my space </h1>
 
 <p align="center">
   RAG 분야에서 근무 중인 AI 백엔드 개발자입니다.<br>
