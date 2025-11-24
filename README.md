@@ -4,10 +4,23 @@
 
 <h1 align="center"> ✨ Welcome to my space </h1>
 
-<p align="center">
-  RAG 분야에서 근무 중인 AI 백엔드 개발자입니다.<br>
-  GenAI 응용 분야에 깊은 관심을 가지고 있습니다.
-</p>
+<div align="center">
+
+### 👨‍💻 AI Backend Developer  
+GenAI 응용 분야에 깊은 관심을 가진 개발자입니다.  
+현재 **RAG 분야**에서 근무하며 아래 기술들을 기반으로 개발을 진행하고 있습니다.
+
+---
+
+#### 🚀 What I Do
+- 🧠 **RAG · LLM 기반 서비스 개발**
+- 🐍 **Python / FastAPI** 기반 백엔드 API 구축
+- 🐳 **Docker** 컨테이너 관리 및 배포
+- 🔎 **LangChain, VectorStore, GraphDB** 기반 문서 검색·지식그래프 개발
+
+---
+
+</div>
 
 ---
 
