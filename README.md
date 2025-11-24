@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" />
+  <img src="https://cdn.pixabay.com/animation/2022/11/23/11/36/11-36-30-546_512.gif" width="250" />
 </div>
 
 <h1 align="center">Welcome🖐️</h1>
