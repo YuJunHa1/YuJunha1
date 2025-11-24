@@ -7,13 +7,9 @@
 <div align="center">
 
 ### 👨‍💻 AI Backend Developer  
-<p>RAG 분야에서 근무중인 AI 백엔드 개발자입니다. </p>
-<div>
-- RAG · LLM 기반 서비스 개발<br>
-- LangChain, VectorStore, GraphDB 기반 문서 검색·지식그래프 개발<br>
-- Python / FastAPI 기반 백엔드 API 구축<br>
-- Docker 컨테이너 관리 및 배포
-</div>
+<p>RAG 분야에서 근무 중인 AI 백엔드 개발자입니다. </p>
+Python/FastAPI 기반의 REST API 개발과 Docker를 활용한 컨테이너 운영·배포를 담당하고 있으며<br>
+LangChain, GraphDB, Vector Store 등 다양한 AI 기술 스택을 활용해 서비스를 개발하고 있습니다.
 </div>
 
 <br><br>
