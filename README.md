@@ -1,4 +1,3 @@
-<!-- 배경 이미지 -->
 <div align="center">
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" />
 </div>
@@ -6,13 +5,14 @@
 <h1 align="center">Welcome🖐️</h1>
 
 <p align="center">
-  RAG 분야에서 근무 중인 AI 백엔드 개발자입니다.
+  RAG 분야에서 근무 중인 AI 백엔드 개발자입니다.<br>
   GenAI 응용 분야에 깊은 관심을 가지고 있습니다.
 </p>
 
 ---
 
 ## 🛠 Tech Stack
+<div align="center">
 
 ### Languages
 <p>
@@ -52,27 +52,27 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
+</div>
 
 ---
 
 ## 🌐 Links
-<p align="left">
+<div align="center">
   <a href="https://qetu5702.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white" />
   </a>
   <a href="https://www.notion.so/2b27d0cdbf1881be8726f4ea9c91a41e?source=copy_link" target="_blank">
     <img src="https://img.shields.io/badge/Notion-353535?style=flat&logo=notion&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
 ## 📚 Baekjoon & Solved.ac
+<div align="center">
+  
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qetu5702)
 
----
+</div>
 
-## 🧩 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-JUNHA&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YU-JUNHA&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=YU-JUNHA)
+---
