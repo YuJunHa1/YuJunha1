@@ -67,4 +67,4 @@
 
 ---
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?qetu5702@gmail.com)
